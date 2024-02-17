@@ -1,7 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Fran Panteli",
+	"description": "This is the project description. This was designed as part of an APIs course.",
+	"keywords": ["descriptive", "related", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
+
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
